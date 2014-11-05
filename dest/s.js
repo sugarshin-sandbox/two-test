@@ -1,0 +1,8 @@
+(function() {
+  var two;
+
+  two = new Two(document.getElementById('two'));
+
+}).call(this);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInMuY29mZmVlIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUEsTUFBQSxHQUFBOztBQUFBLEVBQUEsR0FBQSxHQUFVLElBQUEsR0FBQSxDQUFJLFFBQVEsQ0FBQyxjQUFULENBQXdCLEtBQXhCLENBQUosQ0FBVixDQUFBO0FBQUEiLCJmaWxlIjoicy5qcyIsInNvdXJjZVJvb3QiOiIvc291cmNlLyIsInNvdXJjZXNDb250ZW50IjpbInR3byA9IG5ldyBUd28gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3R3bycpXG5cbiJdfQ==
